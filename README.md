@@ -1,5 +1,5 @@
 # Text Summarization Program
-===============================
+
 
 ![python-text-summarization](https://github.com/user-attachments/assets/29ffc8c4-a3a6-4cee-a7e6-246aa8f869f9)
 
